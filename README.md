@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fratercula-artica
+- 👀 I’m interested in Python and Graph Theory
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me: waltersaustinc@gmail.com
